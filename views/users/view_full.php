@@ -89,7 +89,7 @@ $new_url = "https://www.orenfil-atiso.ru/index.php?option=com_content&view=artic
 <p>Перед началом работы в личном кабинете рекомендуется ознакомиться с "Инструкцией по работе в личном кабинете студента и в личном кабинете преподавателя".</p>   
 
     <?php
-$secretkey = "57Kfr79xj8Px4W9Hnk9Mst8fWNdXgbGJ";
+
 $domain = "cabinet.orenburg-atiso.ru";
 
 $timestamp = date('YmdHis');
